@@ -75,7 +75,7 @@ export default {
   margin-right: 10px;
 }
 
-/* Overlay styles */
+
 .overlay {
   position: fixed;
   top: 0;
@@ -97,4 +97,7 @@ export default {
     opacity: 1;
   }
 }
+  .search-box{
+    display: flex;
+  }
 </style>
