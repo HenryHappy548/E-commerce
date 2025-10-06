@@ -2,7 +2,7 @@
     <footer class="footer">
         <p>© 2025 ShopTube. All rights reserved.</p>
         <div class="links">
-            <a href="#">Privacy Policy</a>
+            <a href="https://accounts.google.com/b/0/AddMailService">Gmail</a>
             <a href="#">Terms of Service</a>
             <a href="#">Contact</a>
         </div>
@@ -37,3 +37,4 @@ export default { name: "Footer" };
     color: #ff0000;
 }
 </style>
+
