@@ -97,7 +97,4 @@ export default {
     opacity: 1;
   }
 }
-  .search-box{
-    display: flex;
-  }
 </style>
