@@ -35,7 +35,7 @@ export default {
     top: 0;
     height: 100%;
     width: 250px;
-    background: rgb(0, 51, 179);
+    background: black;
     box-shadow: 2px 0 8px rgba(0, 0, 0, 0.2);
     padding: 20px;
     z-index: 1200;
@@ -100,3 +100,4 @@ export default {
     transition: transform 0.3s ease-in-out;
 }
 </style>
+
